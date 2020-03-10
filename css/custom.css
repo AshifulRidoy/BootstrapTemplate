@@ -1,4 +1,6 @@
-
+html{
+    scroll-behavior: smooth;
+}
 .service{
 
     padding: 90px 0;
